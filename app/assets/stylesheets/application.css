@@ -89,5 +89,34 @@ a {
 }
 .copy-right {
   padding-left: 10px;
-  margin-left: 10px
+  margin-left: 10px;
 }
+div .contact {
+  text-align: center;
+  margin: auto;
+  color: #603364 !important;
+}
+.contact li {
+  font-size: 25px;
+}
+
+
+
+
+
+
+.center-table {
+  margin: 0 auto !important;
+  float: none !important;
+  border-radius: 4px;
+}
+.panel {
+  margin: 0 auto ;
+  margin-bottom: 20px;
+  float: none !important;
+  background-color: #fffbf8 !important;
+  word-wrap: break-word;
+  font-size: 20px;
+}
+
+
