@@ -13,3 +13,81 @@
  *= require_tree .
  *= require_self
  */
+
+
+body {
+	font-family: 'Inconsolata' !important;
+	background-color: #fffbf8 !important;
+  color: #2c003a !important;
+}
+a {
+	color: #6b4c75 !important;
+}
+
+/* Browse */
+.browse {
+  background-color: #fffbf8;
+  margin-bottom: 20px;
+}
+
+.header-nav {
+  list-style-type: none;
+}
+
+.browse ul,
+.footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 0;
+  text-align: right;
+}
+
+.browse li {
+  color: #6b4c75;
+  display: inline-block;
+  font-size: 20px;
+  line-height: 1.2;
+  margin: 0;
+  padding: 10px 12px;
+}
+
+.footer {
+	text-align: right;
+}
+
+.footer li {
+  text-align: right;
+  color: #2c003a;
+  font-size: 17px;
+}
+
+.jumbotron {
+  /*height: 400px;*/
+  width: 100%;
+  background-image: url("https://farm9.staticflickr.com/8737/16892935677_eebc535465_b.jpg");
+  background-size: cover;
+  margin-bottom: 0;
+}
+
+.jumbotron h1 {
+  padding: 30px 0;
+  text-shadow: 0 2px 1px rgba(0,0,0,.2);
+  font-size: 42px;
+  font-weight: 400;
+}
+.jumbotron h1, h2, p {
+	color: #603364 !important;
+}
+.jumbotron h2 {
+  font-weight: 550;
+}
+.tumbnail {
+	background-color: #fffbf8 !important;
+}
+.skillset .subtitle {
+  padding-left: 14px;
+}
+.copy-right {
+  padding-left: 10px;
+  margin-left: 10px
+}
