@@ -87,6 +87,9 @@ a {
 .skillset .subtitle {
   padding-left: 14px;
 }
+.skillset .subtitle p {
+  font-size: 18px;
+}
 .copy-right {
   padding-left: 10px;
   margin-left: 10px;
